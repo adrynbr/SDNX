@@ -27,7 +27,7 @@
 
 ### 🛠️ Como Executar o Programa (.exe)
 
-1. Vá até a aba **[Releases](../../releases/latest)** e baixe o arquivo `SDNX-v1.0.zip`.
+1. Vá até a aba **[Releases](../../releases/latest)** e baixe o arquivo `SDNX.zip`.
 2. Extraia o arquivo `.zip` no seu computador.
 3. Clique com o botão direito sobre o arquivo `SDNX.exe` e escolha **"Executar como Administrador"** (necessário para gerenciar e formatar partições de disco).
 
@@ -40,9 +40,7 @@
 Caso queira executar ou modificar o código Python diretamente:
 
 ```bash
-# 1. Clone o repositório
-git clone [https://github.com/SEU_USUARIO/SDNX.git](https://github.com/SEU_USUARIO/SDNX.git)
-cd SDNX
+# 1. baixe a source do projeto e abra no VS Code ou um editor de sua preferência.
 
 # 2. Instale as dependências necessárias
 pip install customtkinter psutil requests
@@ -62,8 +60,7 @@ pyinstaller --noconsole --onefile --clean --collect-all customtkinter --icon="ic
 
 Se o **SDNX** te ajudou e economizou seu tempo, considere apoiar o desenvolvimento contínuo!
 
-- 💸 **Pix / Contato:** `+55 51 99448-7569`
-- ☕ **Buy Me a Coffee:** `https://buymeacoffee.com/SEU_USUARIO`
+- 💸 **Pix:** `adryanescobar29@gmail.com`
 
 ---
 
@@ -98,7 +95,7 @@ Fique à vontade para abrir uma **Issue** aqui no GitHub para relatar problemas,
 
 ### 🛠️ How to Run (.exe)
 
-1. Go to the **[Releases](../../releases/latest)** tab and download `SDNX-v1.0.zip`.
+1. Go to the **[Releases](../../releases/latest)** tab and download `SDNX.zip`.
 2. Extract the `.zip` file on your computer.
 3. Right-click `SDNX.exe` and select **"Run as Administrator"** (required for disk partition management and formatting).
 
@@ -111,9 +108,7 @@ Fique à vontade para abrir uma **Issue** aqui no GitHub para relatar problemas,
 If you prefer to run or modify the Python script directly:
 
 ```bash
-# 1. Clone the repository
-git clone [https://github.com/SEU_USUARIO/SDNX.git](https://github.com/SEU_USUARIO/SDNX.git)
-cd SDNX
+# 1. Download the source code of this project and open it in VS Code or your preferred editor.
 
 # 2. Install dependencies
 pip install customtkinter psutil requests
@@ -133,8 +128,7 @@ pyinstaller --noconsole --onefile --clean --collect-all customtkinter --icon="ic
 
 If **SDNX** helped you and saved your time, consider supporting the project!
 
-- 💸 **Pix / Contact:** `+55 51 99448-7569`
-- ☕ **Buy Me a Coffee:** `https://buymeacoffee.com/SEU_USUARIO`
+- 💸 **Pix:** `adryanescobar29@gmail.com`
 
 ---
 
